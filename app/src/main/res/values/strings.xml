@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tap_me">Tap Me</string>
+    <string name="intro_information">PLSC 235 Mazz Ghani mag151</string>
+    <string name="backButton">Back</string>
+    <string name="todo">TODO</string>
+    <string name="resources_text">Resources</string>
+    <string name="gridText">Grid</string>
+</resources>
